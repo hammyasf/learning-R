@@ -10,3 +10,8 @@ himmy
 
 assign("love", 666)
 love
+
+hate = 16
+hate
+rm(hate)
+# hate is empty now
